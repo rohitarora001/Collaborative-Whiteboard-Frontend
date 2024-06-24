@@ -108,15 +108,17 @@ yarn start
 Open your browser and navigate to http://localhost:3000 to see the application in action.
 
 Project Structure
+
 src/: Main source directory
-components/: Contains React components
-Whiteboard.js: Main whiteboard component
-App.js: Main App component
-index.js: Entry point of the application
+    components/: Contains React components
+        Whiteboard.js: Main whiteboard component
+    App.js: Main App component
+    index.js: Entry point of the application
 tailwind.css: Tailwind CSS configuration file
 public/: Public directory for static files
 tailwind.config.js: Tailwind CSS configuration file
 postcss.config.js: PostCSS configuration file
+
 Available Scripts
 In the project directory, you can run:
 
